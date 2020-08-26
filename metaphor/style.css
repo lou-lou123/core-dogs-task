@@ -1,0 +1,17 @@
+*{
+    background-color: rgba(220, 241, 191, 0.925);
+}
+
+#padding{
+    padding: 5px;
+    list-style-type: none;
+}
+
+#color{
+    background-color: slategrey;
+    color: rgb(255, 255, 255);
+}
+
+p{
+    color: rgb(133, 120, 119);
+}
